@@ -33,7 +33,7 @@
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>com.hadoit.FsGame2</string>
+        <string>com.hadoit.FsGame.2</string>
         <key>bundle-version</key>
         <string>1.0.15</string>
         <key>kind</key>
