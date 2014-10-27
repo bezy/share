@@ -19,15 +19,15 @@
           <key>needs-shine</key>
           <true/>
           <key>url</key>
-          <string>http://appdown.030303.com/apps/hd/1.0.16/Icon-57.png</string>
+          <string>http://appdown.030303.com/apps/hd/Icon-57.png</string>
         </dict>
         <dict>
-          <key>kind</key> 
-          <string>full-size-image</string> 
-          <key>needs-shine</key> 
-          <true/> 
-          <key>url</key> 
-          <string>http://appdown.030303.com/apps/hd/1.0.16/Icon-512.png</string>
+          <key>kind</key>
+          <string>full-size-image</string>
+          <key>needs-shine</key>
+          <true/>
+          <key>url</key>
+          <string>http://appdown.030303.com/apps/hd/Icon-512.png</string>
         </dict>
       </array>
       <key>metadata</key>
