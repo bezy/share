@@ -19,7 +19,7 @@
           <key>needs-shine</key>
           <true/>
           <key>url</key>
-          <string>http://fslogin-test.8867.com.tw/apps/twios/1.0.17/Icon-57.png</string>
+          <string>http://fslogin-test.8867.com.tw/apps/twios/Icon-57.png</string>
         </dict>
         <dict>
           <key>kind</key>
@@ -27,7 +27,7 @@
           <key>needs-shine</key>
           <true/>
           <key>url</key>
-          <string>http://fslogin-test.8867.com.tw/apps/twios/1.0.17/Icon-512.png</string>
+          <string>http://fslogin-test.8867.com.tw/apps/twios/Icon-512.png</string>
         </dict>
       </array>
       <key>metadata</key>
